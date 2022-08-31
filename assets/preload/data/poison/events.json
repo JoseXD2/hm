@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "blossom",
+		"player1": "bfrosa",
+		"player2": "rosie-furious",
+		"player3": null,
+		"events": [
+			[
+				119125,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Poison"
+	}
+}

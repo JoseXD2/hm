@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rosie_angry.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="angry rosanna down0000" x="2593" y="1995" width="510" height="573" rotated="true" frameX="-6" frameY="-0" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0001" x="1536" y="1989" width="509" height="578" rotated="true" frameX="-4" frameY="-1" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0002" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0003" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0004" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0005" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0006" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0007" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0008" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0009" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0010" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0011" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0012" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0013" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0014" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0015" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0016" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0017" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0018" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0019" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0020" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0021" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0022" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0023" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0024" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0025" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0026" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0027" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0028" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna down0029" x="2085" y="1988" width="508" height="585" rotated="true" frameX="-0" frameY="-2" frameWidth="585" frameHeight="510"/>
+<SubTexture name="angry rosanna idle0000" x="1592" y="0" width="536" height="665" frameX="-0" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0001" x="2663" y="0" width="530" height="665" frameX="-2" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0002" x="2128" y="659" width="525" height="664" frameX="-4" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0003" x="2653" y="665" width="520" height="664" frameX="-6" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0004" x="537" y="769" width="514" height="664" frameX="-8" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0005" x="0" y="771" width="509" height="664" frameX="-10" frameY="-3" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0006" x="2119" y="1323" width="503" height="665" frameX="-12" frameY="-2" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0007" x="1587" y="1324" width="498" height="665" frameX="-14" frameY="-2" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0008" x="2622" y="1329" width="492" height="666" frameX="-16" frameY="-1" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0009" x="3173" y="665" width="487" height="667" frameX="-18" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0010" x="3114" y="1332" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0011" x="1051" y="1425" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0012" x="509" y="1433" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0013" x="0" y="1435" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0014" x="0" y="1435" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna idle0015" x="0" y="1435" width="485" height="667" frameX="-20" frameY="-0" frameWidth="536" frameHeight="668"/>
+<SubTexture name="angry rosanna left0000" x="1067" y="766" width="520" height="659" frameX="-6" frameY="-0" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0001" x="1592" y="665" width="527" height="659" frameX="-3" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0002" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0003" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0004" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0005" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0006" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0007" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0008" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0009" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0010" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0011" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0012" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0013" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0014" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0015" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0016" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0017" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0018" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0019" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0020" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0021" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0022" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0023" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0024" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0025" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0026" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0027" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0028" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna left0029" x="2128" y="0" width="535" height="659" frameX="-0" frameY="-1" frameWidth="535" frameHeight="660"/>
+<SubTexture name="angry rosanna right0000" x="0" y="2102" width="531" height="489" rotated="true" frameX="-12" frameY="-0" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0001" x="994" y="2092" width="529" height="500" rotated="true" frameX="-6" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0002" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0003" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0004" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0005" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0006" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0007" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0008" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0009" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0010" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0011" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0012" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0013" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0014" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0015" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0016" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0017" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0018" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0019" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0020" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0021" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0022" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0023" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0024" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0025" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0026" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0027" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0028" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna right0029" x="3103" y="1999" width="510" height="529" frameX="-0" frameY="-2" frameWidth="510" frameHeight="531"/>
+<SubTexture name="angry rosanna up0000" x="0" y="0" width="537" height="771" frameX="-0" frameY="-0" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0001" x="537" y="0" width="530" height="769" frameX="-7" frameY="-3" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0002" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0003" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0004" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0005" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0006" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0007" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0008" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0009" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0010" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0011" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0012" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0013" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0014" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0015" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0016" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0017" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0018" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0019" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0020" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0021" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0022" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0023" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0024" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0025" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0026" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0027" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0028" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+<SubTexture name="angry rosanna up0029" x="1067" y="0" width="525" height="766" frameX="-13" frameY="-6" frameWidth="538" frameHeight="772"/>
+</TextureAtlas>

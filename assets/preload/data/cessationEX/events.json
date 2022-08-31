@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "QT",
+		"player1": "bf",
+		"player2": "qk",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"TVscreen",
+						"12",
+						""
+					]
+				]
+			],
+			[
+				76376.953125,
+				[
+					[
+						"Change Character",
+						"1",
+						"kq"
+					]
+				]
+			],
+			[
+				93281.25,
+				[
+					[
+						"Change Character",
+						"1",
+						"qk"
+					]
+				]
+			],
+			[
+				122783.203125,
+				[
+					[
+						"Change Character",
+						"1",
+						"kq"
+					]
+				]
+			],
+			[
+				140507.8125,
+				[
+					[
+						"Change Character",
+						"1",
+						"qk"
+					]
+				]
+			],
+			[
+				176250,
+				[
+					[
+						"Alert",
+						"2",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 128,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "CessationEX"
+	}
+}

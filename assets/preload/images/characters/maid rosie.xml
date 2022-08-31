@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="maid rosih.png">
+<SubTexture name="maid rosie ara ara0000" x="1856" y="2910" width="319" height="407" frameX="0" frameY="-5" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0001" x="313" y="2499" width="314" height="410" frameX="-1" frameY="-2" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0002" x="0" y="2499" width="313" height="411" frameX="-1" frameY="-1" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0003" x="0" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0004" x="312" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0005" x="624" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0006" x="936" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0007" x="936" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0008" x="1248" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0009" x="1560" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0010" x="1872" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0011" x="1872" y="1675" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0012" x="2186" y="0" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0013" x="2186" y="0" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0014" x="2186" y="412" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0015" x="2186" y="824" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0016" x="2186" y="1236" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0017" x="2186" y="1648" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0018" x="2498" y="0" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0019" x="2498" y="412" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0020" x="2498" y="824" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0021" x="2498" y="1236" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0022" x="2498" y="1648" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0023" x="0" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0024" x="312" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0025" x="624" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0026" x="936" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0027" x="1248" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0028" x="1560" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0029" x="1872" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0030" x="2184" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0031" x="2496" y="2087" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0032" x="2810" y="0" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0033" x="2810" y="412" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0034" x="2810" y="824" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0035" x="2810" y="1236" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0036" x="2810" y="1236" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0037" x="2810" y="1648" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0038" x="2810" y="1648" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0039" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0040" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0041" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0042" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0043" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie ara ara0044" x="2810" y="2060" width="312" height="412" frameX="-2" frameY="0" frameWidth="319" frameHeight="412" />
+<SubTexture name="maid rosie down0000" x="1255" y="840" width="280" height="376" frameX="-21" frameY="0" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0001" x="2820" y="2499" width="287" height="373" frameX="-3" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0002" x="2536" y="3320" width="289" height="372" frameX="0" frameY="-4" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0003" x="0" y="3320" width="284" height="373" frameX="-8" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0004" x="284" y="3320" width="285" height="373" frameX="-8" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0005" x="569" y="3320" width="281" height="373" frameX="-16" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0006" x="850" y="3320" width="281" height="373" frameX="-16" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0007" x="1131" y="3320" width="281" height="373" frameX="-18" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0008" x="1131" y="3320" width="281" height="373" frameX="-18" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0009" x="1412" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0010" x="1412" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0011" x="1693" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0012" x="1693" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0013" x="1974" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie down0014" x="2255" y="3320" width="281" height="373" frameX="-19" frameY="-3" frameWidth="301" frameHeight="376" />
+<SubTexture name="maid rosie idle0000" x="627" y="2499" width="336" height="410" frameX="0" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0001" x="963" y="2499" width="326" height="410" frameX="0" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0002" x="1289" y="2499" width="311" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0003" x="1876" y="413" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0004" x="1876" y="823" width="307" height="410" frameX="-7" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0005" x="1876" y="1233" width="305" height="410" frameX="-10" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0006" x="1600" y="2499" width="304" height="410" frameX="-8" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0007" x="1904" y="2499" width="304" height="410" frameX="-8" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0008" x="2208" y="2499" width="305" height="410" frameX="-7" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0009" x="2513" y="2499" width="307" height="410" frameX="-6" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0010" x="3122" y="0" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0011" x="3122" y="410" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0012" x="0" y="2910" width="311" height="410" frameX="-4" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0013" x="311" y="2910" width="312" height="410" frameX="-3" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0014" x="627" y="2499" width="336" height="410" frameX="0" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0015" x="963" y="2499" width="326" height="410" frameX="0" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0016" x="623" y="2910" width="311" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0017" x="3122" y="820" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0018" x="3122" y="1230" width="308" height="410" frameX="-7" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0019" x="3122" y="1640" width="304" height="410" frameX="-10" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0020" x="3122" y="2050" width="304" height="410" frameX="-8" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0021" x="3122" y="2460" width="304" height="410" frameX="-8" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0022" x="934" y="2910" width="305" height="410" frameX="-7" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0023" x="1239" y="2910" width="307" height="410" frameX="-6" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0024" x="1546" y="2910" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0025" x="3122" y="410" width="310" height="410" frameX="-5" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0026" x="0" y="2910" width="311" height="410" frameX="-4" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie idle0027" x="311" y="2910" width="312" height="410" frameX="-3" frameY="0" frameWidth="336" frameHeight="410" />
+<SubTexture name="maid rosie left0000" x="0" y="0" width="300" height="421" frameX="-17" frameY="0" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0001" x="0" y="840" width="307" height="418" frameX="-20" frameY="-3" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0002" x="307" y="840" width="307" height="417" frameX="-21" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0003" x="614" y="840" width="319" height="417" frameX="-9" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0004" x="933" y="840" width="322" height="417" frameX="-1" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0005" x="1553" y="0" width="323" height="417" frameX="0" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0006" x="1553" y="417" width="304" height="417" frameX="-17" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0007" x="1553" y="834" width="302" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0008" x="0" y="1258" width="301" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0009" x="301" y="1258" width="301" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0010" x="602" y="1258" width="300" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0011" x="902" y="1258" width="300" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0012" x="1202" y="1258" width="300" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0013" x="1202" y="1258" width="300" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie left0014" x="1502" y="1258" width="300" height="417" frameX="-18" frameY="-4" frameWidth="328" frameHeight="421" />
+<SubTexture name="maid rosie right0000" x="2175" y="2910" width="316" height="402" frameX="-11" frameY="0" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0001" x="2491" y="2910" width="354" height="394" frameX="-1" frameY="-8" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0002" x="2845" y="2910" width="358" height="393" frameX="0" frameY="-9" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0003" x="3432" y="0" width="339" height="392" frameX="0" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0004" x="3432" y="392" width="319" height="392" frameX="-14" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0005" x="3432" y="784" width="316" height="392" frameX="-14" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0006" x="3432" y="1176" width="312" height="392" frameX="-19" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0007" x="3432" y="1176" width="312" height="392" frameX="-19" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0008" x="3432" y="1568" width="310" height="392" frameX="-21" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0009" x="3432" y="1568" width="310" height="392" frameX="-21" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0010" x="3432" y="1960" width="308" height="392" frameX="-23" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0011" x="3432" y="1960" width="308" height="392" frameX="-23" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0012" x="3432" y="2352" width="307" height="392" frameX="-24" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0013" x="3432" y="2352" width="307" height="392" frameX="-24" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie right0014" x="3432" y="2744" width="307" height="392" frameX="-24" frameY="-10" frameWidth="358" frameHeight="402" />
+<SubTexture name="maid rosie up0000" x="1876" y="0" width="310" height="413" frameX="-2" frameY="-7" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0001" x="300" y="0" width="319" height="420" frameX="0" frameY="0" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0002" x="619" y="0" width="320" height="420" frameX="0" frameY="0" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0003" x="0" y="421" width="310" height="419" frameX="0" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0004" x="310" y="421" width="308" height="419" frameX="-1" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0005" x="618" y="421" width="308" height="419" frameX="-1" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0006" x="939" y="0" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0007" x="939" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0008" x="1246" y="0" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0009" x="1246" y="0" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0010" x="1246" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0011" x="1246" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0012" x="1246" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0013" x="1246" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+<SubTexture name="maid rosie up0014" x="1246" y="419" width="307" height="419" frameX="-2" frameY="-1" frameWidth="320" frameHeight="420" />
+</TextureAtlas>

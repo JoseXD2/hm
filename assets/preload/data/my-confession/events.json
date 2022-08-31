@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "BGDDLC-SINGSayo",
+		"player1": "bf-doki",
+		"player2": "sayori-ddlc",
+		"player3": null,
+		"events": [
+			[
+				66352.9411764705,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					],
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "My-Confession"
+	}
+}

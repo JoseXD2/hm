@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "blossom",
+		"player1": "bfrosa",
+		"player2": "rosie",
+		"player3": null,
+		"events": [
+			[
+				5678.57142857143,
+				[
+					[
+						"Play Animation",
+						"araara",
+						"Dad"
+					]
+				]
+			],
+			[
+				74035.7142857143,
+				[
+					[
+						"Play Animation",
+						"araara",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Petals"
+	}
+}

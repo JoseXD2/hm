@@ -1,0 +1,58 @@
+{
+	"storyName": "Cutie in the Psych Engine EX",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "qt",
+	"weekBefore": "QT",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Carefree",
+			"qt",
+			[
+				251,
+				150,
+				183
+			]
+		],
+		[
+			"Careless",
+			"qt",
+			[
+				251,
+				150,
+				183
+			]
+		],
+		[
+			"Censory-Superload",
+			"kb",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Exterminate",
+			"kb",
+			[
+				128,
+				128,
+				128
+			]
+		]
+	],
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"weekName": "QTextreamWeek"
+}

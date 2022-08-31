@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "1",
+			"text": "Well that was fun!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(No, fuck you, that was not funny at all, do you know how many fucking times I was traversed by a fucking saw or 2? Also, the motherfucker bot attacked me while I was singing. Bro... WHAT THE FUNKIN' SH...)"
+		},
+		{
+			"expression": "3",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "3",
+			"text": "(I think that wasn't fun...)"
+		},
+		{
+			"expression": "1",
+			"text": "I hope we can sing again next time we meet.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(NONONONONOOO HOLY FUNKIN' SHIT I DON'T WANT TO SEE YOU OR THAT THING THE REST OF MY FUCKING LIFE AAAAAaaAAAaaAaaAaaAAaAAaaAaaAAaaAaaAAaAAaAAaAAaAAaAaaAaaAaaAAaAAaaAAaaAAaaAaaaaAAaaaAAaAAaAAaAAaAaA)."
+		},
+		{
+			"expression": "3",
+			"text": "(I really hope not).",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "talk",
+			"text": "Goodbye :D",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

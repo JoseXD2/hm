@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "cafe2",
+		"player1": "bf-rosie",
+		"player2": "rosie-maid",
+		"player3": null,
+		"events": [
+			[
+				38035.7142857143,
+				[
+					[
+						"cafe",
+						"tea",
+						"121"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-rosie",
+		"bpm": 168,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bubble-Tea"
+	}
+}

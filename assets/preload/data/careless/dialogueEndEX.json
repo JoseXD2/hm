@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "2",
+			"text": "Phase 2 error,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "2",
+			"text": "Human life still detected.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "2",
+			"text": "Moving to Phase 3.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the..."
+		}
+	]
+}

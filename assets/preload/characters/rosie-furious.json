@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				377
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "furious rosanna idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				415
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "furious rosanna left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				244
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "furious rosanna down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				398
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "furious rosanna up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				374
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "furious rosanna right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				157,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "disparo",
+			"indices": [],
+			"name": "furious rosanna shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rosie_assets 3",
+	"position": [
+		-100,
+		380
+	],
+	"healthicon": "rosie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		163,
+		213
+	],
+	"camera_position": [
+		270,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

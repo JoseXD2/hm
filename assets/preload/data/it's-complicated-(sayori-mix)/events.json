@@ -1,0 +1,124 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "BGFestival-SINGSayo",
+		"player1": "bf-doki",
+		"player2": "sayori-ddlc",
+		"player3": null,
+		"events": [
+			[
+				30972.972972973,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				62270.2702702703,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72405.4054054054,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				83027.027027027,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				103783.783783784,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124297.297297297,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134918.918918919,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "It's-Complicated-(Sayori-Mix)"
+	}
+}

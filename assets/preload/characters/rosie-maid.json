@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				370
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "maid rosie idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				386
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "maid rosie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				306
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "maid rosie down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				382
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "maid rosie up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				345
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "maid rosie right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "araara",
+			"indices": [],
+			"name": "maid rosie ara ara"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maid rosie",
+	"position": [
+		-270,
+		300
+	],
+	"healthicon": "rosiemaid",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		163,
+		213
+	],
+	"camera_position": [
+		100,
+		-543
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

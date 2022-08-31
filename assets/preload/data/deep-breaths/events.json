@@ -1,0 +1,134 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "BGDDLC-SINGYuri",
+		"player1": "bf-doki",
+		"player2": "yuri",
+		"player3": null,
+		"events": [
+			[
+				21338.3152173913,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				35869.5652173913,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50869.5652173913,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65869.5652173913,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				80869.5652173913,
+				[
+					[
+						"Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				95869.5652173913,
+				[
+					[
+						"Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96338.3152173913,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				110869.565217391,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				125869.565217391,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 115,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Deep-Breaths"
+	}
+}

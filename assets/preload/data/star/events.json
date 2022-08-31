@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "gapi",
+		"player1": "skygapi",
+		"player2": "skyruky",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "star"
+	}
+}

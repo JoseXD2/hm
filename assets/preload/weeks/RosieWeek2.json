@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["coffee-shop", "rosiemaid", [255, 120, 191]],
+		["bubble-tea", "rosiemaid", [255, 120, 191]],
+		["love-shortcake", "rosiemaid", [255, 120, 191]],
+		["girl-from-the-cafe", "rosiemaid", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Rosanna",
+
+	"storyName": "Vs Rosie",
+	"weekBefore": "tutorial",
+	"weekName": "Rosanna",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

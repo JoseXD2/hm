@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "4",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "Fuck..."
+		},
+		{
+			"expression": "4",
+			"text": "You're too stubborn for your own good kid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "and VERY STUBBORN SERIOUSLY..."
+		},
+		{
+			"expression": "4",
+			"text": "I've grown tired of you and your fucking chipmunk voice.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "4",
+			"text": "Prepare your ass, for I won't show any mercy for you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "NOT EVEN A LITTLE."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

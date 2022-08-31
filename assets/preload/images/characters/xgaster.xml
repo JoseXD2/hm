@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cgaster.png">
+<SubTexture name="Xgaster idle dance0000" x="0" y="902" width="359" height="442" frameX="-32" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0001" x="362" y="1344" width="359" height="441" frameX="-32" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0002" x="359" y="902" width="356" height="442" frameX="-35" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0003" x="715" y="902" width="356" height="442" frameX="-35" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0004" x="1071" y="902" width="357" height="442" frameX="-34" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0005" x="1665" y="0" width="356" height="442" frameX="-34" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0006" x="0" y="1344" width="362" height="442" frameX="-29" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0007" x="1451" y="1344" width="362" height="435" frameX="-29" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0008" x="721" y="1344" width="365" height="437" frameX="-26" frameY="-17" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0009" x="1086" y="1344" width="365" height="437" frameX="-26" frameY="-17" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0010" x="0" y="1786" width="366" height="430" frameX="-25" frameY="-17" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0011" x="366" y="1786" width="366" height="430" frameX="-25" frameY="-17" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster idle dance0012" x="2021" y="0" width="359" height="432" frameX="-32" frameY="-16" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0000" x="732" y="1786" width="365" height="425" frameX="-19" frameY="-22" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0001" x="1097" y="1786" width="364" height="424" frameX="-19" frameY="-22" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0002" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0003" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0004" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0005" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0006" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0007" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0008" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0009" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note DOWN0010" x="2021" y="432" width="354" height="432" frameX="-27" frameY="-20" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0000" x="331" y="453" width="312" height="448" frameX="-48" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0001" x="643" y="453" width="311" height="448" frameX="-48" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0002" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0003" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0004" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0005" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0006" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0007" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0008" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0009" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note LEFT0010" x="1003" y="0" width="301" height="447" frameX="-61" frameY="-14" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0000" x="0" y="0" width="348" height="453" frameX="-37" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0001" x="1304" y="0" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0002" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0003" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0004" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0005" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0006" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0007" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0008" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0009" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note RIGHT0010" x="1304" y="445" width="361" height="445" frameX="-33" frameY="-12" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0000" x="348" y="0" width="328" height="452" frameX="-32" frameY="-7" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0001" x="676" y="0" width="327" height="451" frameX="-32" frameY="-7" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0002" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0003" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0004" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0005" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0006" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0007" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0008" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0009" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+<SubTexture name="Xgaster Sing Note UP0010" x="0" y="453" width="331" height="449" frameX="-35" frameY="-10" frameWidth="461" frameHeight="467" />
+</TextureAtlas>

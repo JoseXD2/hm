@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="particle1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="particle 10000" x="0" y="0" width="98" height="98" frameX="-283" frameY="-1681" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10001" x="0" y="0" width="98" height="98" frameX="-258" frameY="-1677" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10002" x="0" y="0" width="98" height="98" frameX="-236" frameY="-1671" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10003" x="0" y="0" width="98" height="98" frameX="-189" frameY="-1659" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10004" x="0" y="0" width="98" height="98" frameX="-150" frameY="-1639" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10005" x="0" y="0" width="98" height="98" frameX="-112" frameY="-1603" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10006" x="0" y="0" width="98" height="98" frameX="-84" frameY="-1556" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10007" x="0" y="0" width="98" height="98" frameX="-61" frameY="-1520" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10008" x="0" y="0" width="98" height="98" frameX="-47" frameY="-1487" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10009" x="0" y="0" width="98" height="98" frameX="-28" frameY="-1461" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10010" x="0" y="0" width="98" height="98" frameX="-15" frameY="-1431" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10011" x="0" y="0" width="98" height="98" frameX="0" frameY="-1386" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10012" x="0" y="0" width="98" height="98" frameX="-5" frameY="-1343" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10013" x="0" y="0" width="98" height="98" frameX="-17" frameY="-1303" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10014" x="0" y="0" width="98" height="98" frameX="-30" frameY="-1255" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10015" x="0" y="0" width="98" height="98" frameX="-43" frameY="-1225" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10016" x="0" y="0" width="98" height="98" frameX="-59" frameY="-1191" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10017" x="0" y="0" width="98" height="98" frameX="-91" frameY="-1146" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10018" x="0" y="0" width="98" height="98" frameX="-125" frameY="-1098" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10019" x="0" y="0" width="98" height="98" frameX="-158" frameY="-1058" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10020" x="0" y="0" width="98" height="98" frameX="-189" frameY="-1017" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10021" x="0" y="0" width="98" height="98" frameX="-238" frameY="-949" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10022" x="0" y="0" width="98" height="98" frameX="-277" frameY="-890" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10023" x="0" y="0" width="98" height="98" frameX="-309" frameY="-841" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10024" x="0" y="0" width="98" height="98" frameX="-341" frameY="-789" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10025" x="0" y="0" width="98" height="98" frameX="-379" frameY="-733" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10026" x="0" y="0" width="98" height="98" frameX="-417" frameY="-682" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10027" x="0" y="0" width="98" height="98" frameX="-458" frameY="-651" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10028" x="0" y="0" width="98" height="98" frameX="-493" frameY="-616" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10029" x="0" y="0" width="98" height="98" frameX="-562" frameY="-553" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10030" x="0" y="0" width="98" height="98" frameX="-622" frameY="-493" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10031" x="0" y="0" width="98" height="98" frameX="-755" frameY="-422" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10032" x="0" y="0" width="98" height="98" frameX="-886" frameY="-367" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10033" x="0" y="0" width="98" height="98" frameX="-1005" frameY="-280" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10034" x="0" y="0" width="98" height="98" frameX="-1141" frameY="-198" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10035" x="0" y="0" width="98" height="98" frameX="-1344" frameY="-66" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10036" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10037" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10038" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10039" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10040" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10041" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10042" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10043" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10044" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10045" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10046" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10047" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10048" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10049" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10050" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10051" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+	<SubTexture name="particle 10052" x="0" y="0" width="98" height="98" frameX="-1502" frameY="0" frameWidth="1600" frameHeight="1779"/>
+</TextureAtlas>

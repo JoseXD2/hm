@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["overwrite", "chara", [255, 255, 255]],
+		["inkingmistake", "sans", [255, 255, 255]],
+		["relighted", "gaster", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "The X Event",
+	"weekBefore": "Tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

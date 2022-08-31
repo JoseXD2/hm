@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="back_seat_bop.png">
+<SubTexture name="back seat bop back seat bop0000" x="0" y="0" width="2260" height="409" frameX="-4" frameY="-107" frameWidth="2266" frameHeight="518" />
+</TextureAtlas>

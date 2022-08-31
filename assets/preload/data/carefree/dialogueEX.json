@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "1",
+			"text": "Oh hey cutie!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "1",
+			"text": "I was looking for you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "1",
+			"text": "I heard you're pretty hot stuff, so I want to challenge you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "1",
+			"text": "Hey, if I win, could we hang out some more?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop beep skdoo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(Haha I don't care cuz anyway I always win lol)"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "Cutie in the Psych Engine Ultimate",
+	"difficulties": "Ultimate",
+	"hideFreeplay": false,
+	"weekBackground": "qt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "QT",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ultermination",
+			"kb",
+			[
+				128,
+				128,
+				128
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "QTextreamWeekinFreePlayULT"
+}

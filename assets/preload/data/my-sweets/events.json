@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "BGDDLC-SINGNatsu",
+		"player1": "bf-doki",
+		"player2": "natsuki",
+		"player3": null,
+		"events": [
+			[
+				12375,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					],
+					[
+						"Blammed Lights",
+						"3",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Blammed Lights",
+						"0",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "My-Sweets"
+	}
+}

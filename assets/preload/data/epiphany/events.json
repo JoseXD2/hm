@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "monika",
+		"player1": "nobf",
+		"player2": "bigmonika",
+		"player3": null,
+		"events": [
+			[
+				147889.733840304,
+				[
+					[
+						"borrado",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				177034.22053232,
+				[
+					[
+						"Play Animation",
+						"monikadead",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFAYU",
+		"bpm": 263,
+		"arrowSkin": "dokidoki",
+		"needsVoices": true,
+		"song": "Epiphany"
+	}
+}

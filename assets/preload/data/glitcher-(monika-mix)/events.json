@@ -1,0 +1,409 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "BGFestival-PixelMoni",
+		"player1": "bf-doki",
+		"player2": "monika-real",
+		"player3": null,
+		"events": [
+			[
+				49285.7142857143,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49317.8571428572,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				49328.5714285714,
+				[
+					[
+						"Change Character",
+						"1",
+						"monika"
+					]
+				]
+			],
+			[
+				49339.2857142857,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-pixel2"
+					]
+				]
+			],
+			[
+				49350,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					]
+				]
+			],
+			[
+				71228.5714285714,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				71260.7142857143,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				71271.4285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					]
+				]
+			],
+			[
+				71282.1428571429,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					]
+				]
+			],
+			[
+				71292.8571428571,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					]
+				]
+			],
+			[
+				93171.4285714285,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel2"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				116571.428571428,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel2"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117942.857142857,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				119314.285714285,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel2"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120685.714285714,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				122057.142857143,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-pixel2"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-doki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-doki"
+					],
+					[
+						"Change Character",
+						"1",
+						"monika-real"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-realdoki"
+					],
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.75",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Glitcher (Monika Mix)"
+	}
+}

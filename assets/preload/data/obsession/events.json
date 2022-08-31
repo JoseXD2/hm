@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "BGDDLC-AloneYuri",
+		"player1": "bf-doki",
+		"player2": "yuri",
+		"player3": null,
+		"events": [
+			[
+				20000,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					],
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Set CamZoom",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				60432.6665245537,
+				[
+					[
+						"Set CamZoom",
+						"1.3",
+						"4"
+					]
+				]
+			],
+			[
+				70264.7695785413,
+				[
+					[
+						"Set CamZoom",
+						"1.0",
+						""
+					],
+					[
+						"Image Flash",
+						"black",
+						"4"
+					]
+				]
+			],
+			[
+				72769.9779118746,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				77691.8529118746,
+				[
+					[
+						"Change Character",
+						"1",
+						"yuri-crazy"
+					],
+					[
+						"Set CamZoom",
+						"1.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-realdoki",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Obsession"
+	}
+}

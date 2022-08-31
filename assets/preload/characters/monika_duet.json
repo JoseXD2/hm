@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Duet Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Duet Monika UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Duet Monika LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Duet Monika RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Duet Monika DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Duet Senpai UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Duet Senpai LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Duet Senpai RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Duet Senpai DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monika_duet",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "monika_duet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		255
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

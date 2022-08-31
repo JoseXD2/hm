@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				378
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "angry rosanna idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				388
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry rosanna left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				225
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry rosanna down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				477
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry rosanna up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				237
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry rosanna right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1289,
+				460
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "defeat",
+			"indices": [],
+			"name": "rosanna lost it"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rosie_assets 2",
+	"position": [
+		-81,
+		372
+	],
+	"healthicon": "rosie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		163,
+		213
+	],
+	"camera_position": [
+		270,
+		-351
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["petals", "rosie", [255, 120, 191]],
+		["bloom", "rosie", [255, 120, 191]],
+		["poison", "rosie", [255, 120, 191]],
+		["nightshade", "rosie", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Rosanna",
+
+	"storyName": "Vs Rosie",
+	"weekBefore": "tutorial",
+	"weekName": "Rosanna",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

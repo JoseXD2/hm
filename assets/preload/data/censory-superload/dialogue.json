@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "4",
+			"text": "Nothing personal kid...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "Nothing personal."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo bro wtf you just got off the girl's back."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and you're even bigger than her."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bruj"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well this will be very easy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "so get your ass ready cuz you're going to be smashed >:)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": ">:("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qt",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "This ain't gonna be easy at all, stupid kid..."
+		}
+	]
+}

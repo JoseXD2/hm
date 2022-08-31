@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overwrite.png">
+<SubTexture name="overbg0000" x="0" y="0" width="1937" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0001" x="1937" y="0" width="1923" height="1400" frameX="-14" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0002" x="1937" y="0" width="1923" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0003" x="1937" y="0" width="1923" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0004" x="0" y="1400" width="1818" height="1400" frameX="-57" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0005" x="0" y="1400" width="1818" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0006" x="0" y="1400" width="1818" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0007" x="1818" y="1400" width="1768" height="1400" frameX="-82" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0008" x="1818" y="1400" width="1768" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0009" x="0" y="1400" width="1818" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0010" x="0" y="1400" width="1818" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+<SubTexture name="overbg0011" x="0" y="0" width="1937" height="1400" frameX="0" frameY="0" frameWidth="1937" frameHeight="1400" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				388
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ink idle dance"
+		},
+		{
+			"offsets": [
+				47,
+				385
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ink Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				57,
+				368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ink Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				43,
+				395
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ink Sing Note UP"
+		},
+		{
+			"offsets": [
+				47,
+				398
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ink Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ink",
+	"position": [
+		-60,
+		440
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		9,
+		-392
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

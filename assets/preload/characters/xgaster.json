@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Xgaster idle dance"
+		},
+		{
+			"offsets": [
+				-2,
+				375
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Xgaster Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				13,
+				354
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Xgaster Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				1,
+				376
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Xgaster Sing Note UP"
+		},
+		{
+			"offsets": [
+				-6,
+				371
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Xgaster Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xgaster",
+	"position": [
+		-250,
+		310
+	],
+	"healthicon": "gaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-310,
+		-750
+	],
+	"sing_duration": 4,
+	"scale": 2.23
+}

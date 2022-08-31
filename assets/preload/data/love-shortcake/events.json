@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "cafe3",
+		"player1": "bf-rosie",
+		"player2": "rosie-maid",
+		"player3": null,
+		"events": [
+			[
+				39034.0909090909,
+				[
+					[
+						"cafe",
+						"amor",
+						"14"
+					]
+				]
+			],
+			[
+				66818.1818181818,
+				[
+					[
+						"byehud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76363.6363636363,
+				[
+					[
+						"Hihud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84545.4545454545,
+				[
+					[
+						"cafe",
+						"amor",
+						"30"
+					]
+				]
+			],
+			[
+				121363.636363636,
+				[
+					[
+						"byehud",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-rosie",
+		"bpm": 176,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Love-Shortcake"
+	}
+}

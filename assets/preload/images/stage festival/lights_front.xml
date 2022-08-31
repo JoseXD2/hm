@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lights_front.png"><SubTexture name="Lights front0000" x="0" y="0" width="2341" height="749" frameX="-118" frameY="-128" frameWidth="2596" frameHeight="1001" />
+<SubTexture name="Lights front0001" x="0" y="749" width="2340" height="749" frameX="-127" frameY="-128" frameWidth="2596" frameHeight="1001" />
+</TextureAtlas>

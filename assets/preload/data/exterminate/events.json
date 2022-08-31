@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.25,
+		"stage": "extermination",
+		"player1": "bf",
+		"player2": "kb-angry",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"TVscreen",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				8648.64864864865,
+				[
+					[
+						"Change Character",
+						"1",
+						"kberror"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 222,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Exterminate"
+	}
+}

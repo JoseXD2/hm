@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "cafe",
+		"player1": "bf-rosie",
+		"player2": "rosie-maid",
+		"player3": null,
+		"events": [
+			[
+				32307.6923076923,
+				[
+					[
+						"cafe",
+						"cafe",
+						"91"
+					]
+				]
+			],
+			[
+				52269.2307692308,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.2"
+					]
+				]
+			],
+			[
+				52384.6153846154,
+				[
+					[
+						"cambios",
+						"ara",
+						""
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Play Animation",
+						"araara",
+						"Dad"
+					]
+				]
+			],
+			[
+				53423.0769230769,
+				[
+					[
+						"Set Cam Zoom",
+						"0.57",
+						"0.2"
+					]
+				]
+			],
+			[
+				53538.4615384615,
+				[
+					[
+						"cambios",
+						"normal",
+						""
+					]
+				]
+			],
+			[
+				111576.923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.2"
+					]
+				]
+			],
+			[
+				111692.307692308,
+				[
+					[
+						"cambios",
+						"ara",
+						""
+					]
+				]
+			],
+			[
+				111807.692307692,
+				[
+					[
+						"Play Animation",
+						"araara",
+						"Dad"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.57",
+						"0.2"
+					]
+				]
+			],
+			[
+				112615.384615385,
+				[
+					[
+						"cambios",
+						"normal",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-rosie",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Coffee-Shop"
+	}
+}

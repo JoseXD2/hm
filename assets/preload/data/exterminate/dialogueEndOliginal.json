@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lmao get fucked you stupid robot."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "His windows doesn't respond lol."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"expression": "talk",
+			"text": "Are we leave?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
